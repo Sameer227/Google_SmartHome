@@ -162,7 +162,7 @@
       ],
       "name": "Temperature Sensor",
       "nicknames": [
-        "Ambient Temperature Sensor"
+        "Temperature Sensor"
       ]
     },
     "deviceInfo": {
