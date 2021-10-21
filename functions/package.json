@@ -1,6 +1,6 @@
 {
   "name": "smarthome-control",
-  "description": "Codes for controlling devices through the Google Assistant By Sid",
+  "description": "",
   "engines": {
     "node": "10"
   },
